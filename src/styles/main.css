@@ -1,0 +1,14 @@
+.text-link,
+.logo-link {
+  text-decoration: none;
+  color: #f50057;
+}
+
+.text-link:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+.logo-link:hover {
+  opacity: 0.8;
+}
